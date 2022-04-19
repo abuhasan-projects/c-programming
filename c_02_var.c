@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int roll = 15;
+    int roll = 28;
     printf("C Variable \n");
     printf("%d", roll);
 
