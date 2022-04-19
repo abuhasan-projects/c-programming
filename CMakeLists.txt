@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.22)
+project(C_Programming C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(C_Programming
+        #        c_01_start.c
+        c_02_var.c
+        )
