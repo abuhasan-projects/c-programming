@@ -6,5 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_Programming
         #        c_01_start.c
         #        c_02_var.c
-        c_03_data-type.c
+        #        c_03_data-type.c
+        c_04_constants.c
         )
