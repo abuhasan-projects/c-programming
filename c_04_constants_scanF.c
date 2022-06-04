@@ -9,5 +9,10 @@ int main() {
     const int firstConstantNum = 726;
     printf("Hello Constant Number %d \n", firstConstantNum);
 
+    int scanNum;
+    printf("Please enter an integer : \n");
+    scanf("%d", &scanNum);
+    printf("Your entered number is: %d\n", scanNum);
+
     return 0;
 }
