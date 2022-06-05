@@ -8,5 +8,7 @@ add_executable(C_Programming
         #        c_02_var.c
         #        c_03_data-type.c
         #        c_04_constants_scanF.c
-        c_05_operators.c
+        #        c_05_sizeOf.c
+        #        c_06_Operators.c
+        c_07_condition_ifElse.c
         )
