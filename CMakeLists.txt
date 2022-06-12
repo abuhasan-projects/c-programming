@@ -10,5 +10,6 @@ add_executable(C_Programming
         #        c_04_constants_scanF.c
         #        c_05_sizeOf.c
         #        c_06_Operators.c
-        c_07_condition_ifElse.c
+        #        c_07_condition_ifElse.c
+        c_08_arrays.c
         )
