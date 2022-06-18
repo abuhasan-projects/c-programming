@@ -12,5 +12,6 @@ add_executable(C_Programming
         #        c_06_Operators.c
         #        c_07_condition_ifElse.c
         #        c_08_arrays.c
-        c_09_function.c
+        #        c_09_function.c
+        ./DS/c_01_time_complexity.c
         )
