@@ -13,5 +13,13 @@ add_executable(C_Programming
         #        c_07_condition_ifElse.c
         #        c_08_arrays.c
         #        c_09_function.c
-        ./DS/c_01_time_complexity.c
+
+        #data structure/algorithms folder
+
+        #        ./DS/c_01_time_complexity.c
+
+        #leetcode problem solving
+
+        ./leetcode/c01_towSum.c
+
         )
