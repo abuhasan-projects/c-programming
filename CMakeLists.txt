@@ -15,11 +15,11 @@ add_executable(C_Programming
         #        c_09_function.c
 
         #data structure/algorithms folder
-
         #        ./DS/c_01_time_complexity.c
+        ./DS/c_02_linear_search.c
 
         #leetcode problem solving
-
-        ./leetcode/c01_towSum.c
+        #        ./leetcode/c01_towSum.c
+        #        ./leetcode/c02_addTowNum.c
 
         )
